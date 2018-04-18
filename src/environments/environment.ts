@@ -4,5 +4,6 @@
 // The list of which env maps to which file can be found in `.angular-cli.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  serviceBaseUrl: 'https://192.168.178.62/vibe/webapi/'
 };
