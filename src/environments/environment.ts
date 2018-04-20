@@ -5,5 +5,5 @@
 
 export const environment = {
   production: false,
-  serviceBaseUrl: 'https://192.168.178.62/vibe/webapi/'
+  serviceBaseUrl: 'https://apollo-vibedev3/vibe.web/webapi/'
 };
